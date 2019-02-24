@@ -4,52 +4,43 @@ title: Curriculum Vitae
 ---
 
 
-# Yuli Wu 吴玉立
+# __Yuli Wu__
 B.Sc. RWTH
+
 <div id="webaddress">
-<a href="me@wuyuli.com">me@wuyuli.com</a>
+<a href="me@wuyuli.com">me[at]wuyuli.com</a>
 </div>
 
-
 ## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009 - 2012`
+__Xuzhou No.1 Middle School__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2012 - 2013`
+__Nanjing Normal University__
+- Bachelor of Science in Electrical and Electronics Engineering *(1. semester)*
 
-- Sizar
+`2013 - 2015`
+__University of Stuttgart, RWTH Aachen University__
+- German course
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2015 - 2018`
+__RWTH Aachen University__
+- Bachelor of Science in Electrical Engineering, Information Technology and Computer Engineering
+- with specialisation of Computer Engineering  *(completed within 6 semesters)*
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2018 - now`
+__RWTH Aachen University__
+- Master of Science in Electrical Engineering, Information Technology and Computer Engineering
+- with specialisation of Computer Engineering
 
 
+## Language
+__Chinese   English   German    French/Japanese__
+- Native    Fluent    Fluent    Basic
 
 ## Publications
 
@@ -65,11 +56,6 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
 
 ## Occupation
 
@@ -83,7 +69,7 @@ __Royal Mint__, London
 __Lucasian professor of Mathematics__, Cambridge University
 
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<br />
+<br />
+<!--
+Last updated: Feb 2019 -->
