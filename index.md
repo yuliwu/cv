@@ -3,6 +3,8 @@ layout: cv
 title: Curriculum Vitae
 ---
 
+<br />
+<br />
 
 # Yuli Wu
 B.Sc. RWTH
@@ -134,8 +136,8 @@ German Driving License &emsp;&emsp; __AM/B/L__
 `Sept 2016`
 Chinese Driving License &emsp;&emsp; __C1__
 
-
-
+<br />
+<br />
 <br />
 <br />
 <!--
