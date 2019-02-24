@@ -4,14 +4,36 @@ title: Curriculum Vitae
 ---
 
 
-# __Yuli Wu__
+# Yuli Wu
 B.Sc. RWTH
 
 <div id="webaddress">
-<a href="me@wuyuli.com">me[at]wuyuli.com</a>
+<a href="mailto:me@wuyuli.com">me[at]wuyuli.com</a>
+<p> ( have a try, it really works 😹 )</p>
 </div>
 
-## Currently
+
+## Interested in
+Machine Learning, Deep Learning, Computer Vision
+
+Signal Processing, (Medical/Industrial) Image Processing
+
+### Eager for
+Practice of Machine Learning Frameworks
+
+
+## Experienced in
+C, C++, MATLAB, Python
+
+numpy, OpenCV, scikit-image, matplotlib, seaborn
+
+LaTeX, TikZ, Markdown, iWork, Microsoft Office, HTML, jekyll
+
+GitHub, GitLab
+
+MacOS, Ubuntu, Windows
+
+AutoCAD, Inventor, Simulink
 
 
 ## Education
@@ -30,43 +52,88 @@ __University of Stuttgart, RWTH Aachen University__
 `2015 - 2018`
 __RWTH Aachen University__
 - Bachelor of Science in Electrical Engineering, Information Technology and Computer Engineering
-- with specialisation of Computer Engineering  *(completed within 6 semesters)*
+- with specialisation of Computer Engineering  *(completed within 6 semesters with 2,7)*
 
 `2018 - now`
 __RWTH Aachen University__
 - Master of Science in Electrical Engineering, Information Technology and Computer Engineering
 - with specialisation of Computer Engineering
 
+## Work Experience
+`2016`
+__TOP Technische Objektplanung GmbH__
+- Working student, assistant of fire alarm plan using AutoCAD LT
+
+`2017 - 2018`
+__Institute of High Voltage Engineering of RWTH__
+- Teaching assistant of multiple laboratories (for 3 semesters)
+
+`2017 - now`
+__Nuance Communications Aachen GmbH__
+- Working student, translation and test for in-car voice-control-system
+
+
+## Project & Practice
+`2015`
+__Pro-8 Project, RWTH Aachen & FH Aachen__
+- Modelling using AutoCAD and Inventor
+
+`2016`
+__Electrical Engineering and Computer Science Project__
+- LEGO Mindstorms, MATLAB
+
+`2017 - 2018`
+__Practice Computer Science laboratory__
+- C, C++
+
+`2017`
+__Project Kinect, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
+- Image processing, Classification, OpenCV, C++, SVM, Random Forest
+
+`2018`
+__Bachelor Thesis, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
+- "Contour Refinement of Leukocyte Segmentations in Scans of Stained Bone Marrow" *(1,3)*
+- Supervisor: Philipp Gräbel
+- Python, OpenCV, scikit-image, matplotlib, LaTeX, 30min Presentation in German
+- *Links: <a href="https://yuliwu.github.io/ba/Thesis.pdf">Thesis</a> ~20MiB &emsp;&emsp;<a href="https://yuliwu.github.io/ba-slides/">Slides</a> ~100MiB*
+
+`2018 - 2019`
+__MATLAB Advanced: Digital Signal Processing__
+- MATLAB, Signal Processing
+
+`2018 - 2019`
+__Seminar, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
+- "Semantic Instance Segmentation"
+- Supervisor: Long Chen
+- Deep Learning, Proposal-/Embedding-based Segmentation, 30min Presentation in English
+- *Links: <a href="https://yuliwu.github.io/seminar-doc/Document.pdf">Document</a> ~10MiB &emsp;&emsp;<a href="https://yuliwu.github.io/slides/">Slides</a> ~40MiB*
+
 
 ## Language
-__Chinese   English   German    French/Japanese__
-- Native    Fluent    Fluent    Basic
+`中文`
+__Chinese__ &emsp; &emsp; &emsp; &emsp;&emsp; Native
 
-## Publications
+`English`
+__English__ &emsp; &emsp; &emsp; &emsp; &emsp; Fluent
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Deutsch`
+__German__ &emsp; &emsp; &emsp; &emsp;&emsp; Fluent, DSH-III Certificate *(sehr gut)*
 
-### Journals
+`Français`
+__French__ &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; Basic
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+`日本語`
+__Japanese__ &emsp;&emsp;&emsp;&emsp; &emsp; Basic
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Driving License
+`Apr 2016`
+German Driving License &emsp;&emsp; __AM/B/L__
 
-- Warden
-- Minted coins
+`Sept 2016`
+Chinese Driving License &emsp;&emsp; __C1__
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 <br />
