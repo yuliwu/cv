@@ -137,19 +137,19 @@ Links: <a href="https://yuliwu.github.io/seminar-doc/Document.pdf">Document</a> 
 
 ## Language
 `中文`
-__Chinese__ &emsp; &emsp; &emsp; &emsp;&emsp; Native
+__Chinese__ <i>Native</i>
 
 `English`
-__English__ &emsp; &emsp; &emsp; &emsp; &emsp; Fluent
+__English__  <i>Fluent</i>
 
 `Deutsch`
-__German__ &emsp; &emsp; &emsp; &emsp;&emsp; Fluent, DSH-III Certificate *(sehr gut)*
+__German__ <i>Fluent, DSH-III Certificate *(sehr gut)*</i>
 
 `Français`
-__French__ &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; Basic
+__French__ <i>Basic</i>
 
 `日本語`
-__Japanese__ &emsp;&emsp;&emsp;&emsp; &emsp; Basic
+__Japanese__ <i>Basic</i>
 
 
 
