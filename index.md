@@ -75,7 +75,7 @@ __TOP Technische Objektplanung GmbH__
 Working Student, Assistant of Fire Alarm Plan using AutoCAD LT
 
 `2017 - 2018`
-__Institute of High Voltage Engineering of RWTH__
+__Institute of High Voltage Engineering of RWTH Aachen__
 
 Teaching Assistant of Multiple Laboratories for 3 Semesters
 
