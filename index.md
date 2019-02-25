@@ -82,7 +82,7 @@ Teaching Assistant of Multiple Laboratories for 3 Semesters
 `2017 - now`
 __Nuance Communications Aachen GmbH__
 
-Working Student, Translation and Test for in-car Voice-control-system
+Working Student, Translation and Test for in-car Voice-Control-System
 
 
 ## Project & Practice
