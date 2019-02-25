@@ -115,7 +115,7 @@ Supervisor: Philipp Gräbel
 
 Python, OpenCV, scikit-image, matplotlib, LaTeX, 30min Presentation in German
 
-*Links: <a href="https://yuliwu.github.io/ba/Thesis.pdf">Thesis</a> ~20MB &emsp;&emsp;<a href="https://yuliwu.github.io/ba-slides/">Slides</a> ~100MB*
+*Links: <a href="https://yuliwu.github.io//ba//Thesis.pdf/">Thesis</a> ~20MB &emsp;&emsp;<a href="https://yuliwu.github.io//ba-slides/">Slides</a> ~100MB*
 
 `2018 - 2019`
 __MATLAB Advanced: Digital Signal Processing__
