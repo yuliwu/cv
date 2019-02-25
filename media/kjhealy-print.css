@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -53,42 +53,43 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 10pt;
-	line-height: 1.35em;
+	font-size: 100%;
+	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
+	font-family: Avenir,Verdana,sans-serif;
+	margin-top: 1em;
 }
 
 p {
+	font-size: 90%;
 	position: relative;
-	left: 28%;
-	margin-bottom: 0.2em;
+	left: 35%;
+	margin-bottom: 0.5em;
 	margin-right: 0;
-	width: 70%;
+	width: 65%;
 }
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	color: #315572;
 }
 
 p code {
 	position: absolute;
-	left: -11%;
+	left: -18%;
 }
 
 
-ul { 
+ul {
 	position: relative;
-	left: 28%;
+	left: 35%;
 	width: 65%;
-	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+	margin-bottom: 1.5em;
+	padding-top: 50px;
+	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -114,81 +115,104 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 65%;
 }
 
 h1 {
+	font-family: "Lucida Console", Monaco, monospace;
+  padding-top: 30px;
 	text-align: left;
-	font-size: 3em;
+	font-size: 4.2em;
 	line-height: 1em;
 	position: relative;
-	left: 28%;
+	width: 30%;
+	left: 35%;
+	display: inline-block;
+	overflow: hidden;
+	white-space: nowrap;
 }
 
-h1+p { 
+h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 100%;
+	position: relative;
+	width: 30%;
+	left: 35%;
+	display: inline-block;
+	overflow: hidden;
+	white-space: nowrap;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
-	margin-top: 2em;
+	color: #b91414;
+	margin-top: 2.7em;
 	position: relative;
-	top: 1.2em;
+	top: 1.4em;
 	text-align: right;
-	width: 18%;
+	width: 20%;
 }
-
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
-	color: #ccc;
+	color: #b91414;
+	line-height: 1em;
 	position: relative;
-	top: 1.6em;
+	top: 1.2em;
 	text-align: right;
-	width: 18%;
+	width: 20%;
 }
 
 a {
-	color: inherit;
-	text-decoration:none
+	color: #b91414;
+	/*text-decoration:none*/
 }
 
 a:hover {
-	color:#39f
+	color:#315572
 }
 
 #webaddress {
-	margin-top: 1em;
 	position: relative;
-	left: 28%;
-	color: #ccc;
-	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	left: 36%;
+	color: #315572;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 100%;
 }
 
 #webaddress a {
+	color:#315572;
+	display: inline-block;
 	text-decoration: none;
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e 
+	font-size: 90%;
+	font-style: italic;
+}
+
+#webaddress p {
+	left: 0.1%;
+	color:#b91414;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 80%;
+	display: inline-block;
+	text-decoration: none;
 }
 
 strong {
 	font-weight: bold;
+	padding-top: 50px;
 }
+
+#address {
+	display: none;
+}
+
 
 #ghbutton {
 	display: none;
 	visibility: hidden;
 }
-
-
-
-
