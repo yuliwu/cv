@@ -115,7 +115,8 @@ Supervisor: Philipp Gräbel
 
 Python, OpenCV, scikit-image, matplotlib, LaTeX, 30min Presentation in German
 
-*Links: <a href="https://yuliwu.github.io//ba//Thesis.pdf">Thesis</a> ~20MB &emsp;&emsp;<a href="https://yuliwu.github.io//ba-slides/">Slides</a> ~100MB*
+Links: <a href="https://yuliwu.github.io/ba/Thesis.pdf" target="_blank">Thesis</a> *&#126;20MB* &emsp;&emsp; <a href="https://yuliwu.github.io/ba-slides/" target="_blank">Slides</a> *&#126;100MB*
+
 
 `2018 - 2019`
 __MATLAB Advanced: Digital Signal Processing__
@@ -131,7 +132,7 @@ Supervisor: Long Chen
 
 Deep Learning, Segmentation, 30min Presentation in English
 
-*Links: <a href="https://yuliwu.github.io//seminar-doc//Document.pdf">Document</a> ~6MB &emsp;&emsp;<a href="https://yuliwu.github.io//slides/">Slides</a> ~40MB*
+Links: <a href="https://yuliwu.github.io/seminar-doc/Document.pdf">Document</a> *&#126;6MB* &emsp;&emsp;<a href="https://yuliwu.github.io/slides/">Slides</a> *&#126;40MB*
 
 
 ## Language

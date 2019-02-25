@@ -121,7 +121,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	font-family: "Lucida Console", Monaco, monospace;
-  padding-top: 30px;
+  	padding-top: 30px;
 	text-align: left;
 	font-size: 4.2em;
 	line-height: 1em;
@@ -167,11 +167,15 @@ h3 {
 
 a {
 	color: #b91414;
-	/*text-decoration:none*/
 }
 
 a:hover {
-	color:#315572
+	color:#315572;
+}
+
+p a {
+	font-size: 100%;
+	font-style: italic;
 }
 
 #webaddress {
@@ -204,7 +208,6 @@ em {
 
 strong {
 	font-weight: bold;
-	padding-top: 50px;
 }
 
 #address {
