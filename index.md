@@ -75,7 +75,7 @@ __TOP Technische Objektplanung GmbH__
 Working Student, Assistant of Fire Alarm Plan using AutoCAD LT
 
 `2017 - 2018`
-__Institute of High Voltage Engineering of RWTH Aachen__
+__Institute of High Voltage Engineering (IFHT) of RWTH Aachen__
 
 Teaching Assistant of Multiple Laboratories for 3 Semesters
 
@@ -94,23 +94,23 @@ Modelling using AutoCAD and Inventor
 `2016`
 __Electrical Engineering and Computer Science Project__
 
-Build of a simple Pianist Robot using Various Sensors
+Build of a Simple Pianist Robot using Various Sensors
 
 LEGO Mindstorms, MATLAB
 
 `2017 - 2018`
 __Practice Computer Science Laboratory__
 
-Simulation of Street Traffic containing Various types of Vehicles 
+Simulation of Street Traffic containing Various Types of Vehicles 
 
 C, C++
 
 `2017`
 __Project Kinect, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
 
-Classification of localised Objects in an Vision-based Autonomous Store using Kinect
+Classification of Localised Objects in an Vision-based Autonomous Store using Kinect
 
-Image Processing, OpenCV, C++, SVM, Random Forest
+C++, OpenCV, Image Processing, SVM, Random Forest
 
 `2018`
 __Bachelor Thesis, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
