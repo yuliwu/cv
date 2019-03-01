@@ -59,7 +59,7 @@ __RWTH Aachen University__
 
 B.Sc. in Electrical Engineering, Information Technology and Computer Engineering
 
-with Specialisation of Computer Engineering  *(Completed within 6 Semesters with 2,7)*
+with Specialisation of Computer Engineering  *(Completed within 6 Semesters)*
 
 `2018 - now`
 __RWTH Aachen University__
