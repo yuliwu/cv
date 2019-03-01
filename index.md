@@ -91,14 +91,14 @@ __Pro-8 Project, RWTH Aachen & FH Aachen__
 
 Modelling using AutoCAD and Inventor
 
-`2016`
+`2015`
 __Electrical Engineering and Computer Science Project__
 
 Build of a Simple Pianist Robot using Various Sensors
 
 LEGO Mindstorms, MATLAB
 
-`2017 - 2018`
+`2016 - 2017`
 __Practice Computer Science Laboratory__
 
 Simulation of Street Traffic containing Various Types of Vehicles 
