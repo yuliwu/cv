@@ -47,7 +47,7 @@ __Xuzhou No.1 Middle School__
 `2012 - 2013`
 __Nanjing Normal University__
 
-B.Sc. in Electrical and Electronics Engineering *(1. semester)*
+B.Sc. in Electrical and Electronics Engineering *(1. Semester)*
 
 `2013 - 2015`
 __University of Stuttgart, RWTH Aachen University__
@@ -59,7 +59,7 @@ __RWTH Aachen University__
 
 B.Sc. in Electrical Engineering, Information Technology and Computer Engineering
 
-with Specialisation of Computer Engineering  *(completed within 6 semesters with 2,7)*
+with Specialisation of Computer Engineering  *(Completed within 6 Semesters with 2,7)*
 
 `2018 - now`
 __RWTH Aachen University__
@@ -94,17 +94,23 @@ Modelling using AutoCAD and Inventor
 `2016`
 __Electrical Engineering and Computer Science Project__
 
+Build of a simple Pianist Robot using Various Sensors
+
 LEGO Mindstorms, MATLAB
 
 `2017 - 2018`
-__Practice Computer Science laboratory__
+__Practice Computer Science Laboratory__
+
+Simulation of Street Traffic containing Various types of Vehicles 
 
 C, C++
 
 `2017`
 __Project Kinect, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
 
-Image Processing, Classification, OpenCV, C++, SVM, Random Forest
+Classification of localised Objects in an Vision-based Autonomous Store using Kinect
+
+Image Processing, OpenCV, C++, SVM, Random Forest
 
 `2018`
 __Bachelor Thesis, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
@@ -120,6 +126,8 @@ Links: <a href="https://yuliwu.github.io/ba/Thesis.pdf" target="_blank">Thesis</
 
 `2018 - 2019`
 __MATLAB Advanced: Digital Signal Processing__
+
+Various Tasks like Filter Design, Efficient Programming, C API, Beamformer etc.
 
 MATLAB, Signal Processing, Digital Speech Transmission
 
