@@ -30,6 +30,8 @@ C, C++, MATLAB, Python
 
 numpy, OpenCV, scikit-image, matplotlib, seaborn
 
+scikit-learn, PyTorch, TensorFlow
+
 LaTeX, TikZ, Markdown, iWork, Microsoft Office, HTML, jekyll
 
 GitHub, GitLab
@@ -177,4 +179,4 @@ Chinese Driving License &emsp;&emsp; __C1__
 <br />
 <br />
 <!--
-Last updated: Mar 2019 -->
+Last updated: Apr 2019 -->
