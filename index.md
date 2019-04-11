@@ -79,7 +79,7 @@ __Institute of High Voltage Engineering (IFHT) of RWTH Aachen__
 
 Teaching Assistant of Multiple Laboratories for 3 Semesters
 
-`2017 - now`
+`2017 - 2019`
 __Nuance Communications Aachen GmbH__
 
 Working Student, Translation and Test for in-car Voice-Control-System
