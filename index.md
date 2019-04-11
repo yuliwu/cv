@@ -142,6 +142,12 @@ Deep Learning, Segmentation, 30min Presentation in English
 
 Links: <a href="https://yuliwu.github.io/seminar-doc/Document.pdf">Document</a> *&#126;6MB* &emsp;&emsp;<a href="https://yuliwu.github.io/slides/">Slides</a> *&#126;40MB*
 
+`2019`
+__Machine Learning Laboratory__
+
+Various Practical Tasks of Machine Learning
+
+Python, PyTorch
 
 ## Language
 `中文`
