@@ -149,7 +149,7 @@ __Machine Learning Laboratory *(in progress)*__
 
 Various Practical Tasks of Machine Learning
 
-Python, PyTorch
+Python, scikit-learn, PyTorch
 
 ## Language
 `中文`
