@@ -22,15 +22,16 @@ Signal Processing, Medical / Industrial / Agricultural Image Processing
 
 Autonomous Driving
 
+<!--
 ### Eager for
 Practice of Machine Learning Frameworks
-
+-->
 ## Experienced in
 C, C++, MATLAB, Python
 
 numpy, OpenCV, scikit-image, matplotlib, seaborn
 
-<!-- scikit-learn, PyTorch, TensorFlow -->
+scikit-learn, PyTorch, TensorFlow
 
 LaTeX, TikZ, Markdown, iWork, Microsoft Office, HTML, jekyll
 
@@ -85,6 +86,11 @@ Teaching Assistant of Multiple Laboratories for 3 Semesters
 __Nuance Communications Aachen GmbH__
 
 Working Student, Translation and Test for in-car Voice-Control-System
+
+`2019`
+__Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
+
+Student Assistant, Annotation, Software Development, Segmentation
 
 
 ## Project & Practice
@@ -161,12 +167,11 @@ __English__  <i>Fluent</i>
 `Deutsch`
 __German__ <i>Fluent, DSH-III Certificate *(sehr gut)*</i>
 
-`Français`
-__French__ <i>Basic</i>
-
 `日本語`
 __Japanese__ <i>Basic</i>
 
+`Français`
+__French__ <i>Basic</i>
 
 
 ## Driving License
