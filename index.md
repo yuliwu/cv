@@ -146,12 +146,12 @@ __Seminar, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
 
 Supervisor: Long Chen
 
-Deep Learning, Segmentation, 30min Presentation in English
+Review of Various Deep Learning Approaches of Instance Segmentation, 30min Presentation in English
 
 Links: <a href="https://yuliwu.github.io/seminar-doc/Document.pdf">Document</a> *&#126;6MB* &emsp;&emsp;<a href="https://yuliwu.github.io/slides/">Slides</a> *&#126;40MB*
 
 `2019`
-__Machine Learning Laboratory *(in progress)*__
+__Machine Learning Laboratory__
 
 Various Practical Tasks of Machine Learning
 
