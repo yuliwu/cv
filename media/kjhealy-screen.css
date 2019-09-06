@@ -50,16 +50,16 @@ table {
 /* end of reset */
 
 
-
+/* Grandparent */
 body {
 	font: normal normal 400;
 	font-size: 100%;
 	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 }
 
+/* Parent Class */
 p {
 	font-size: 90%;
 	position: relative;
@@ -69,20 +69,22 @@ p {
 	width: 65%;
 }
 
+/* year and month */
 code {
 	font: normal normal;
 	font-size: 80%;
-	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #315572;
 }
 
+/* year and month */
 p code {
 	position: absolute;
-	left: -18%;
+	left: -19%;
+	white-space: pre;
 }
 
-
+/* unordered list */
 ul {
 	position: relative;
 	left: 35%;
@@ -99,6 +101,7 @@ ul {
 	left: -0.25em;
 }*/
 
+/* list item */
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
@@ -106,6 +109,7 @@ li {
 	/*color: #777;*/
 }
 
+/* list item unordered list */
 li ul {
 	position: relative;
 	left: 0;
@@ -133,6 +137,7 @@ h1 {
 	white-space: nowrap;
 }
 
+/* B.Sc RWTH */
 h1+p {
 	/*subtitle*/
 	font-style: italic;
@@ -165,6 +170,7 @@ h3 {
 	width: 20%;
 }
 
+/* link */
 a {
 	color: #b91414;
 }
@@ -173,6 +179,7 @@ a:hover {
 	color:#315572;
 }
 
+/* link italic */
 p a {
 	font-size: 100%;
 	font-style: italic;

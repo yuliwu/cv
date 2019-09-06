@@ -20,12 +20,9 @@ Machine Learning, Deep Learning, Computer Vision
 
 Signal Processing, Medical / Industrial / Agricultural Image Processing
 
-Autonomous Driving
+Embedded System, Cyber-Physical System, Autonomous Driving
 
-<!--
-### Eager for
-Practice of Machine Learning Frameworks
--->
+
 ## Experienced in
 C, C++, MATLAB, Python
 
@@ -44,27 +41,27 @@ AutoCAD, Inventor, Simulink
 
 ## Education
 
-`2009 - 2012`
+`Sep 2009 - Jul 2012`
 __Xuzhou No.1 Middle School__
 
-`2012 - 2013`
+`Sep 2012 - Apr 2013`
 __Nanjing Normal University__
 
 B.Sc. in Electrical and Electronics Engineering *(1. Semester)*
 
-`2013 - 2015`
+`Oct 2013 - Dec 2014`
 __University of Stuttgart, RWTH Aachen University__
 
 German Course
 
-`2015 - 2018`
+`Oct 2015 - Sep 2018`
 __RWTH Aachen University__
 
 B.Sc. in Electrical Engineering, Information Technology and Computer Engineering
 
 with Specialisation of Computer Engineering  *(Completed within 6 Semesters)*
 
-`2018 - now`
+`Oct 2018 - now`
 __RWTH Aachen University__
 
 M.Sc. in Electrical Engineering, Information Technology and Computer Engineering
@@ -72,55 +69,55 @@ M.Sc. in Electrical Engineering, Information Technology and Computer Engineering
 with Specialisation of Computer Engineering
 
 ## Work Experience
-`2016`
+`Mar 2016 - Aug 2016`
 __TOP Technische Objektplanung GmbH__
 
 Working Student, Assistant of Fire Alarm Plan using AutoCAD LT
 
-`2017 - 2018`
+`Apr 2017 - Jul 2018`
 __Institute of High Voltage Engineering (IFHT) of RWTH Aachen__
 
 Teaching Assistant of Multiple Laboratories for 3 Semesters
 
-`2017 - 2019`
+`Oct 2017 - Mar 2019`
 __Nuance Communications Aachen GmbH__
 
 Working Student, Translation and Test for in-car Voice-Control-System
 
-`2019`
+`Jul 2019 - now`
 __Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
 
 Student Assistant, Annotation, Software Development, Segmentation
 
 
 ## Project & Practice
-`2015`
+`Jun 2015`
 __Pro-8 Project, RWTH Aachen & FH Aachen__
 
 Modelling using AutoCAD and Inventor
 
-`2015`
+`Dec 2015`
 __Electrical Engineering and Computer Science Project__
 
 Build of a Simple Pianist Robot using Various Sensors
 
 LEGO Mindstorms, MATLAB
 
-`2016 - 2017`
+`Jul 2016 , Jan 2017`
 __Practice Computer Science Laboratory__
 
-Simulation of Street Traffic containing Various Types of Vehicles 
+Simulation of Street Traffic containing Various Types of Vehicles
 
 C, C++
 
-`2017`
+`Apr 2017 - Jul 2017`
 __Project Kinect, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
 
 Classification of Localised Objects in an Vision-based Autonomous Store using Kinect
 
 C++, OpenCV, Image Processing, SVM, Random Forest
 
-`2018`
+`Apr 2018 - Oct 2018`
 __Bachelor Thesis, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
 
 "Contour Refinement of Leukocyte Segmentations in Scans of Stained Bone Marrow" *(1,3)*
@@ -132,14 +129,14 @@ Python, OpenCV, scikit-image, matplotlib, LaTeX, 30min Presentation in German
 Links: <a href="https://yuliwu.github.io/ba/Thesis.pdf" target="_blank">Thesis</a> *&#126;20MB* &emsp;&emsp; <a href="https://yuliwu.github.io/ba-slides/" target="_blank">Slides</a> *&#126;100MB*
 
 
-`2018 - 2019`
+`Oct 2018 - Jan 2019`
 __MATLAB Advanced: Digital Signal Processing__
 
 Various Tasks like Filter Design, Efficient Programming, C API, Beamformer etc.
 
 MATLAB, Signal Processing, Digital Speech Transmission
 
-`2018 - 2019`
+`Oct 2018 - Jan 2019`
 __Seminar, Institute of Imaging & Computer Vision (LfB) of RWTH Aachen__
 
 "Semantic Instance Segmentation"
@@ -150,7 +147,7 @@ Review of Various Deep Learning Approaches of Instance Segmentation, 30min Prese
 
 Links: <a href="https://yuliwu.github.io/seminar-doc/Document.pdf">Document</a> *&#126;6MB* &emsp;&emsp;<a href="https://yuliwu.github.io/slides/">Slides</a> *&#126;40MB*
 
-`2019`
+`Apr 2019 - Jul 2019`
 __Machine Learning Laboratory__
 
 Various Practical Tasks of Machine Learning
@@ -178,7 +175,7 @@ __French__ <i>Basic</i>
 `Apr 2016`
 German Driving License &emsp;&emsp; __AM/B/L__
 
-`Sept 2016`
+`Sep 2016`
 Chinese Driving License &emsp;&emsp; __C1__
 
 <br />
