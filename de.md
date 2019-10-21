@@ -13,9 +13,9 @@ B.Sc. RWTH
 </div>
 
 <div id="language">
-<span><a href="zh.md">中文</a></span>
-<span><a href="index.md">English</a></span>
-<span><a href="de.md">Deutsch</a></span>
+<span><a href="https://github.com/yuliwu/cv/blob/master/zh.md">中文</a></span>
+<span><a href="https://github.com/yuliwu/cv/blob/master/index.md">English</a></span>
+<span><a href="https://github.com/yuliwu/cv/blob/master/de.md">Deutsch</a></span>
 </div>
 
 ## Interesse an
