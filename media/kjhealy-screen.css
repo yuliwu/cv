@@ -209,8 +209,17 @@ em {
 	color:#b91414;
 	font-family: "Lucida Console", Monaco, monospace;
 	font-size: 80%;
-	display: inline-block;
+	display: block;
 	text-decoration: none;
+}
+
+#language span{
+	font-size: 90%;
+	display: block;
+	position: relative;
+	top: -5.8em;
+	text-align: right;
+	width: 20%;
 }
 
 strong {

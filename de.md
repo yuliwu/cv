@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Curriculum Vitae
+title: Lebenslauf
 ---
 
 <br />
@@ -9,8 +9,7 @@ title: Curriculum Vitae
 B.Sc. RWTH
 
 <div id="webaddress">
-<a href="mailto:me@wuyuli.com">me @ wuyuli.com</a>
-<!--( have a try, it really works 😹 )</p> -->
+<a href="mailto:me@wuyuli.com">me @ wuyuli.com</a><!--( have a try, it really works 😹 )</p> -->
 </div>
 
 <div id="language">
@@ -19,7 +18,7 @@ B.Sc. RWTH
 <span><a href="de.md">Deutsch</a></span>
 </div>
 
-## Interested in
+## Interesse an
 Machine Learning, Deep Learning, Computer Vision
 
 Signal Processing, Medical / Industrial / Agricultural Image Processing
@@ -27,7 +26,7 @@ Signal Processing, Medical / Industrial / Agricultural Image Processing
 Embedded System, Cyber-Physical System, Autonomous Driving
 
 
-## Experienced in
+## Erfahrung in
 C, C++, MATLAB, Python
 
 numpy, OpenCV, scikit-image, matplotlib, seaborn
@@ -43,7 +42,7 @@ MacOS, Ubuntu, Windows
 AutoCAD, Inventor, Simulink
 
 
-## Education
+## Erziehung
 
 `Sep 2009 - Jul 2012`
 __Xuzhou No.1 Middle School__

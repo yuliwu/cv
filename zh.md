@@ -1,16 +1,15 @@
 ---
 layout: cv
-title: Curriculum Vitae
+title: 简历
 ---
 
 <br />
 
-# Yuli Wu
+# 吴玉立
 B.Sc. RWTH
 
 <div id="webaddress">
-<a href="mailto:me@wuyuli.com">me @ wuyuli.com</a>
-<!--( have a try, it really works 😹 )</p> -->
+<a href="mailto:me@wuyuli.com">me @ wuyuli.com</a><!--( have a try, it really works 😹 )</p> -->
 </div>
 
 <div id="language">

@@ -28,6 +28,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
 body {
 	line-height: 1;
 }
@@ -64,7 +65,7 @@ p {
 	font-size: 90%;
 	position: relative;
 	left: 35%;
-	margin-bottom: 0.5em;
+	margin-bottom: 0.25em;
 	margin-right: 0;
 	width: 65%;
 }
@@ -148,7 +149,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #b91414;
-	margin-top: 2.7em;
+	margin-top: 1.5em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -184,6 +185,7 @@ p a {
 	color: #315572;
 	font-family: "Lucida Console", Monaco, monospace;
 	font-size: 100%;
+	margin-bottom: -1em;
 }
 
 #webaddress a {
@@ -204,6 +206,10 @@ em {
 	font-size: 80%;
 	display: inline-block;
 	text-decoration: none;
+}
+
+#language span{
+	display: none;
 }
 
 strong {
